@@ -30,9 +30,9 @@ src="https://img.shields.io/github/followers/SnazzyK?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SnazzyK"><img src="https://github-readme-stats.vercel.app/api?username=SnazzyK&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="SnazzyK's GitHub stats" /></a
+<a href="http://www.github.com/SnazzyK"><img src="https://github-readme-stats.vercel.app/api?username=SnazzyK&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="SnazzyK's GitHub stats" />
 
-![snake gif](https://github.com/SnazzyK/snazzyk/blob/output/github-contribution-grid-snake.svg)
+
                                                                                                                                                                                                                                                                                                  
                                                                                                                                                                                                                                                                                                  
 
