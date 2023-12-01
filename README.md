@@ -6,6 +6,8 @@ I am QA Auto
 
 👨‍💻 About me: I hope this message takes you by surprise. My name is Valery, and I am writing to express my enthusiasm and interest in contributing to this world, especially in the field of quality assurance automation (QA). As a newcomer to the world of quality control, I have received great satisfaction from the thorough software quality assurance process. My path in the technology industry initially began with interface development, where I honed my skills and gained a deep understanding of creating user-oriented and visually appealing interfaces. However, my true passion came to light when I delved into the field of quality control. Over the past year, I have devoted myself to studying and mastering the automation of quality control. I have gained hands-on experience in developing and implementing automated test scenarios, using testing frameworks, and conducting comprehensive test suites to verify software functionality. My commitment to quality assurance goes beyond error detection; I strive to improve the overall user experience by ensuring the smooth and reliable operation of the software.
 
+
+
 * 🌍  I'm based in Kaliningrad
 * ✉️  You can contact me at [snazzyvalera@gmail.com](mailto:snazzyvalera@gmail.com)
 
@@ -28,5 +30,9 @@ src="https://img.shields.io/github/followers/SnazzyK?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SnazzyK"><img src="https://github-readme-stats.vercel.app/api?username=SnazzyK&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="SnazzyK's GitHub stats" /></a>
+<a href="http://www.github.com/SnazzyK"><img src="https://github-readme-stats.vercel.app/api?username=SnazzyK&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="SnazzyK's GitHub stats" /></a
+
+![snake gif](https://github.com/SnazzyK/snazzyk/blob/output/github-contribution-grid-snake.svg)
+                                                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                 
 
