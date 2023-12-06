@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Valeriy
 ===============================================================================================================================
 
-I am QA Auto
+I am QA Manula/Auto
 ------------
 
 👨‍💻 About me: I hope this message takes you by surprise. My name is Valery, and I am writing to express my enthusiasm and interest in contributing to this world, especially in the field of quality assurance automation (QA). As a newcomer to the world of quality control, I have received great satisfaction from the thorough software quality assurance process. My path in the technology industry initially began with interface development, where I honed my skills and gained a deep understanding of creating user-oriented and visually appealing interfaces. However, my true passion came to light when I delved into the field of quality control. Over the past year, I have devoted myself to studying and mastering the automation of quality control. I have gained hands-on experience in developing and implementing automated test scenarios, using testing frameworks, and conducting comprehensive test suites to verify software functionality. My commitment to quality assurance goes beyond error detection; I strive to improve the overall user experience by ensuring the smooth and reliable operation of the software.
