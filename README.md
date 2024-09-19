@@ -7,8 +7,8 @@ I am QA Manula/Auto
 * 🌍  I'm based in Kaliningrad
 * ✉️  You can contact me at [snazzyvalera@gmail.com](mailto:snazzyvalera@gmail.com)
 
-<a href="https://www.github.com/SnazzyK" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SnazzyK?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+<a href="https://www.github.com/SnazzyK" target="_blank" rel="noreferrer">
+
 
 ### Skills
 
