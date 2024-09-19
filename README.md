@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am QA Manula/Auto
 ------------
 
-* 🌍  I'm based in Kaliningrad
 * ✉️  You can contact me at [snazzyvalera@gmail.com](mailto:snazzyvalera@gmail.com)
 
 <a href="https://www.github.com/SnazzyK" target="_blank" rel="noreferrer">
